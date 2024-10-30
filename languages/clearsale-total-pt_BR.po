@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClearSale Total\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-18 00:12-0300\n"
+"PO-Revision-Date: 2023-07-11 18:47-0300\n"
+"Last-Translator: Letti <contato@letti.com.br>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: class-clearsale-total-ajax.php:261 class-clearsale-total-checkout.php:153 class-clearsale-total-status.php:171
+msgid "ClearSale status: "
+msgstr "Status da ClearSale: "
+
+#: class-clearsale-total-requirements.php:125
+msgid "WP Requirements: the requirements are invalid."
+msgstr "Requisitos do WP: os requisitos são inválidos."
+
+#: class-clearsale-total-requirements.php:225
+msgid " could not be activated."
+msgstr " não pôde ser ativado."
+
+#: class-clearsale-total-requirements.php:233
+msgid "Required PHP Extension(s) not found: "
+msgstr "Extensões requeridas do PHP não encontradas: "
+
+#: class-clearsale-total-requirements.php:248
+msgid "Please update to meet requirements."
+msgstr "Por favor, atualize para atender aos requisitos."
+
+#: class-clearsale-total-status.php:356
+msgid "(Automatic Approval) - Request was approved automatically according to parameters defined in the automatic approval rule"
+msgstr "(Aprovação Automática) – Pedido foi aprovado automaticamente segundo parâmetros definidos na regra de aprovação automática"
+
+#: class-clearsale-total-status.php:121
+msgid "(Manual Approval) - Order approved manually by decision of an analyst"
+msgstr "(Aprovação Manual) – Pedido aprovado manualmente por tomada de decisão de um analista"
+
+#: class-clearsale-total-status.php:124
+msgid ""
+"(Disapproved Without Suspicion) - Request Disapproved without Suspicion for lack\tcontact within the agreed period and / or policies "
+"restrictive of CPF (Irregular, SUS or Canceled)"
+msgstr ""
+"RPM (Reprovado Sem Suspeita) – Pedido Reprovado sem Suspeita por falta de contato com o cliente dentro do período acordado e/ou "
+"políticas\n"
+" restritivas de CPF (Irregular, SUS ou Cancelados)"
+
+#: class-clearsale-total-status.php:127
+msgid "(Manual analysis) - Request is queued for analysis"
+msgstr "(Análise manual) – Pedido está em fila para análise"
+
+#: class-clearsale-total-status.php:130
+msgid "(New) - Order imported and not sorted Score by analyzer"
+msgstr ""
+"(Novo) – Pedido importado e não classificado Score pela analisadora\n"
+"(processo que roda o Score de cada pedido)"
+
+#: class-clearsale-total-status.php:133
+msgid "(Manual Suspension) - Suspended Suspension Suspected Fraud based on contact with the 'customer' or on the ClearSale database"
+msgstr ""
+"(Suspensão Manual) – Pedido Suspenso por suspeita de fraude baseado no\n"
+"contato com o “cliente” ou ainda na base ClearSale"
+
+#: class-clearsale-total-status.php:374
+msgid "(Canceled by Customer) - Canceled upon client's request or order duplication"
+msgstr "(Cancelado pelo Cliente) – Cancelado por solicitação do cliente ou duplicidade do pedido"
+
+#: class-clearsale-total-status.php:376
+msgid ""
+"(Fraud Confirmed) - Request imputed as Fraud Confirmed by contact with the card administrator and / or contact with the card or CPF "
+"that are unaware of the purchase"
+msgstr ""
+"(Fraude Confirmada) – Pedido imputado como Fraude Confirmada por contato com a administradora de cartão e/ou contato com titular do\n"
+" cartão ou CPF do cadastro que desconhecem a compra"
+
+#: class-clearsale-total-status.php:379
+msgid ""
+"(Automatic Deprecation) - Request Failed Automatically by some kind of Business Rule that needs to be applied (Note: usual and not "
+"recommended)"
+msgstr ""
+"(Reprovação Automática) – Pedido Reprovado Automaticamente por algum tipo de Regra de Negócio que necessite aplicá-la\n"
+"(Obs: não usual e não recomendado)"
+
+#: class-clearsale-total-status.php:382
+msgid "(Policy Disapproval) - Request disapproved automatically by policy established by the customer or ClearSale"
+msgstr "(Reprovação Por Política) – Pedido reprovado automaticamente por política estabelecida pelo cliente ou ClearSale"
+
+#: class-clearsale-total-status.php:385
+msgid "(Policy Approval) - Request approved automatically by policy established by the customer or ClearSale"
+msgstr "(Aprovação Por Política) – Pedido aprovado automaticamente por política estabelecida pelo cliente ou ClearSale"
+
+#: class-clearsale-total-admin.php:120
+msgid "WooCommerce - ClearSale Total (for Brazil) - Configurations"
+msgstr "WooCommerce - ClearSale Total (para Brasil) - Configurações"
+
+#: class-clearsale-total-admin.php:138
+msgid "Settings"
+msgstr "Configurações"
+
+#: class-clearsale-total-admin.php:209
+msgid "ClearSale Status"
+msgstr "Status da ClearSale"
+
+#: class-clearsale-total-admin.php:240
+msgid "Not integrated yet."
+msgstr "Não integrado ainda."
+
+#: class-clearsale-total-admin.php:280
+msgid "No order found."
+msgstr "Nenhum pedido encontrado."
+
+#: class-clearsale-total-admin.php:288
+msgid "This order (%s) has already been integrated into ClearSale!"
+msgstr "Este pedido (%s) já foi integrado na ClearSale!"
+
+#: class-clearsale-total-admin.php:292
+msgid "This order (%s) has NOT been integrated into ClearSale!"
+msgstr "Este pedido (%s) NÃO foi integrado na ClearSale!"
+
+#: class-clearsale-total-admin.php:295
+msgid "This order (%s) failed to be integrated in 3 attempts, contact support@clear.sale!"
+msgstr "Este pedido (%s) não conseguiu ser integrado em 3 tentativas, entrar em contato com suporte@clear.sale!"
+
+#: class-clearsale-total-admin.php:299
+msgid "This order (%s) was canceled!"
+msgstr "Este pedido (%s) foi cancelado!"
+
+#: class-clearsale-total-admin.php:300
+msgid "This order (%s) is awaiting payment approval for Clear Sale risk analysis!"
+msgstr "Este pedido (%s) está aguardando aprovação do pagamento para análise de risco Clear Sale!"
+
+#: class-clearsale-total-admin.php:316
+msgid "Order Resend"
+msgstr "Reenviar pedido"
+
+#: class-clearsale-total-admin.php:335
+msgid "ClearSale - Order Status"
+msgstr "ClearSale - Status do pedido"
+
+#: clearsale-total-admin-display.php:45
+msgid "View all ClearSale products"
+msgstr "Visualize todos os produtos da ClearSale"
+
+#: clearsale-total-admin-display.php:46
+msgid "here"
+msgstr "aqui"
+
+#: clearsale-total-admin-display.php:49
+msgid "Select between test and production environment"
+msgstr "Selecione entre ambiente de teste e produção"
+
+#: clearsale-total-admin-display.php:51
+msgid "ClearSale Test (homologation)"
+msgstr "ClearSale Teste (homologação)"
+
+#: clearsale-total-admin-display.php:52
+msgid "ClearSale Production"
+msgstr "ClearSale Produção"
+
+#: clearsale-total-admin-display.php:56
+msgid "Enter login and password provided by ClearSale"
+msgstr "Digite login e senha fornecidos pela ClearSale"
+
+#: clearsale-total-admin-display.php:59
+msgid "Login: "
+msgstr "Login: "
+
+#: clearsale-total-admin-display.php:65
+msgid "Password: "
+msgstr "Senha: "
+
+#: clearsale-total-admin-display.php:70
+msgid "Enter the Fingerprint provided by ClearSale,"
+msgstr "Digite o Fingerprint fornecido pela ClearSale,"
+
+#: clearsale-total-admin-display.php:71
+msgid "You should have a number like this: a6s8h29ym6xgm5qor3sk"
+msgstr "Você deve ter um número parecido com este: a6s8h29ym6xgm5qor3sk"
+
+#: clearsale-total-admin-display.php:73
+msgid "finger"
+msgstr ""
+
+#: clearsale-total-admin-display.php:78
+msgid "Cancel order when CleaSale status is negative"
+msgstr "Cancelar pedido quando o status da CleaSale for negativo"
+
+#: clearsale-total-admin-display.php:81
+msgid "Cancel Order:"
+msgstr "Cancelar Pedido:"
+
+#: clearsale-total-admin-display.php:85
+msgid "ClearSale is not responsible for orders that follow after our disapproval"
+msgstr "A ClearSale não se responsabiliza pelos pedidos que tiverem sequência após nossa reprovação"
+
+#: clearsale-total-admin-display.php:96
+msgid "Select New status after order is approved. Default: Processing"
+msgstr "Selecione Novo status após a aprovação do pedido. Padrão: Processando"
+
+#: clearsale-total-admin-display.php:103
+msgid "Please, inform the URL below to ClearSale. This action will allow the retailer to receive approval/disapproval of the operations."
+msgstr "Informar a URL abaixo para a ClearSale. Esta ação permitirá a você, lojista, receber as aprovações/reprovações das operações."
+
+#: clearsale-total-admin-display.php:89
+#, php-format
+msgid "Log ClearSale events, such as API requests, you can check this log in %s."
+msgstr "Salvar os eventos da Clearsale, como as chamadas das APIs, você pode verificar o log em %s."
+
+#: clearsale-total-admin-display.php:89
+msgid "System Status &gt; Logs"
+msgstr "Status do sistema &gt; Logs"
+
+#: clearsale-total-admin-display.php:91
+msgid "Enable Log: "
+msgstr "Habilita Log: "
+
+#: clearsale-total-admin-display.php:98
+msgid "Save all changes"
+msgstr "Salvar Alterações"
+
+#: class-clearsale-total-extrafields.php:75
+msgid "Document Number"
+msgstr "Número de documento"
+
+#: class-clearsale-total-extrafields.php:81
+msgid "Cpf/Cnpj (Valid only in Brazil)"
+msgstr "CPF/CNPJ (Válido apenas no Brasil)"
+
+#: class-clearsale-total-extrafields.php:82
+msgid "Only numbers"
+msgstr "Apenas números"
+
+#: class-clearsale-total-extrafields.php:88
+msgid "Please enter value in Document Number."
+msgstr "Por favor digite o número do documento."
+
+#: class-clearsale-total-extrafields.php:90
+msgid "Invalid CPF Number."
+msgstr "CPF inválido."
+
+#: class-clearsale-total-extrafields.php:91
+msgid "Invalid CNPJ Number."
+msgstr "CNPJ inválido."
